@@ -1,0 +1,13 @@
+
+
+after create project we can push to github and in github we can add some team members
+
+in the github under the your project click the "setting" and "collaborators"
+ then its gonna ask the password and after you can add team with user name
+
+ after you add your team if you work on project and if you wanna add new feature on it you should always create new branch and
+ add all feature in the new branch then commit and push new feature when you on the branch, never push when you on the master.
+
+ and when you update or pull something always make sure you are on the master.
+
+
