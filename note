@@ -15,4 +15,6 @@ in the github under the your project click the "setting" and "collaborators"
  after you push your branch then from intellij pres pull request then create new request from "+" then create
  then another team or you can merge or can approve or leave comment also.
 
-we can also reject the branch and they also can reject your branch and you gonna
+we can also reject the branch and they also can reject your branch and you gonna go to intellij and you gonna
+do some changes on that branch which they reject and gonna commit again then push, after they gonna review again
+and if they approve ist gonna merge.
